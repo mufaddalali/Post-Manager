@@ -1,5 +1,7 @@
-## How to Install
+## Post Manager | View, Search & Bookmark Post
+A NextJS 13 based web app for viewing, searching, and bookmarking posts.
 
+## How to Install
 First, install node modules. On the root folder open terminal and write:
 
 ```bash
@@ -8,7 +10,6 @@ npm install
 This command will install all the dependencies of the project
 
 ## Run the project
-
 After succesfully installing dependencies. Run
 ```bash
 npm run dev
